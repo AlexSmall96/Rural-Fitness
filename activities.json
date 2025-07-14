@@ -1,0 +1,84 @@
+[
+    {
+        "pk": 1,
+        "model" : "classbooking_app.activity",
+        "fields": {
+            "name": "Boxfit", 
+            "description": "One bag each, 6 rounds of boxing and combat fitness excercises. Have we hooked your interest?", 
+            "capacity": 14,
+            "duration": "30m"
+        }
+    }, {
+        "pk": 5,
+        "model" : "classbooking_app.activity",
+        "fields": {
+            "name": "Body Burn", 
+            "description": "Circuits consisting of squats, lunges, and anything that gets those quads burning.", 
+            "capacity": 24,
+            "duration": "30m"
+        }        
+    }, {
+        "pk": 7,
+        "model" : "classbooking_app.activity",
+        "fields": {
+            "name": "Yoga", 
+            "description": "Reconnect with your body and mind in our yoga sessions, covering the basic poses and some mindulness work.", 
+            "capacity": 24,
+            "duration": "1hr"
+        }           
+    }, {
+        "pk": 9,
+        "model" : "classbooking_app.activity",
+        "fields": {
+            "name": "Treadmill Torture", 
+            "description": "You're stronger than you think.", 
+            "capacity": 16,
+            "duration": "30m"
+        }           
+    }, {
+        "pk": 3,
+        "model" : "classbooking_app.activity",
+        "fields": {
+            "name": "Pilates", 
+            "description": "Work your core and develop stability.", 
+            "capacity": 16,
+            "duration": "1hr"
+        }         
+    }, {
+        "pk": 4,
+        "model" : "classbooking_app.activity",
+        "fields": {
+            "name": "Spin", 
+            "description": "A great way to develop your cycling technique or to just stay fit.", 
+            "capacity": 20,
+            "duration": "1hr"
+        }        
+    }, {
+        "pk": 2,
+        "model" : "classbooking_app.activity",
+        "fields": {
+            "name": "Kettlebell Chaos", 
+            "description": "Various kettlebell excercises.", 
+            "capacity": 20,
+            "duration": "30m"
+        }         
+    }, {
+        "pk": 8,
+        "model" : "classbooking_app.activity",
+        "fields": {
+            "name": "Mindfulness", 
+            "description": "Get present with our relaxing mindfulness classes.", 
+            "capacity": 10,
+            "duration": "30m"
+        }         
+    }, {
+        "pk": 6,
+        "model" : "classbooking_app.activity",
+        "fields": {
+            "name": "HIIT", 
+            "description": "High intensity interval training in various bodyweight excercises.", 
+            "capacity": 20,
+            "duration": "1hr"
+        }         
+    }
+]
