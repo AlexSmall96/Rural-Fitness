@@ -5,6 +5,8 @@ Note: The registration section requires a payment form to fill in, no functional
 ## Live Site 
 [https://rural-fitness.onrender.com/](https://rural-fitness.onrender.com/)
 
+The deployed project is currently on Render's free tier. Projects on this tier spin down during periods of inactivity, therefore, there may be a delay when loading the above URL.
+
 ![](documentation/amiresp.png)
 
 ## Repository 
