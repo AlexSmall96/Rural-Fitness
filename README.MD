@@ -6,7 +6,7 @@ It does **not** represent my current skill level, code quality, or tech stack.
 
 Rural Fitness is a fictional gym and spa website built with HTML, CSS, JavaScript, Python, and Django during my early learning phase.
 
-![Archived UI](documentation/amiresp.png)
+![Archived UI](archived/documentation/amiresp.png)
 
 ## Repository  
 [https://github.com/AlexSmall96/Rural-Fitness](https://github.com/AlexSmall96/Rural-Fitness)
