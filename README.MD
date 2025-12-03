@@ -1,4 +1,8 @@
 # Rural Fitness
+## ⚠️ARCHIVED PROJECT
+
+**This is an archived project from my bootcamp with [Code Institute](https://codeinstitute.net) in 2023, kept for historical reference. It does not represent my current skill level or tech stack.**
+
 Rural Fitness is a fictional, state-of-the-art gym and spa. Located in the countryside as the name suggests, it aims to provide high-quality facilities to those who live / holiday in more rural areas, while also providing a luxurious spa experience for those looking to relax.
 
 Note: The registration section requires a payment form to fill in, no functionality is set up to handle card details and no payments will be taken. This form is purely for visual effects. 
