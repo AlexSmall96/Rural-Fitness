@@ -6,10 +6,6 @@
 Rural Fitness is a fictional, state-of-the-art gym and spa. Located in the countryside as the name suggests, it aims to provide high-quality facilities to those who live / holiday in more rural areas, while also providing a luxurious spa experience for those looking to relax.
 
 Note: The registration section requires a payment form to fill in, no functionality is set up to handle card details and no payments will be taken. This form is purely for visual effects. 
-## Live Site 
-[https://rural-fitness.onrender.com/](https://rural-fitness.onrender.com/)
-
-The deployed project is currently on Render's free tier. Projects on this tier spin down during periods of inactivity, therefore, there may be a delay when loading the above URL.
 
 ![](documentation/amiresp.png)
 
